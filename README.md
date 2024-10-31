@@ -1,2 +1,2 @@
 # Crypto_react_app
-this is a crypto dashboard using React JS. 
+This is a simple crypto dashboard by React JS. 
